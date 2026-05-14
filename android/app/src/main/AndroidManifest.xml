@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="actividad_unidad_2_desarrollo_apps_2026"
+        android:label="actividad 3 Desarrollo de Apps"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
